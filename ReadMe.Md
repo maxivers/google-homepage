@@ -1,0 +1,2 @@
+Welcome to my Google homepage clone project! 
+For this project I will be cloning the HTML/CSS of the Google homepage in order to replicate it for the purpose of practicing HTML/CSS basic commands and frameworks.
